@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TravS2001
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Computer Engineering at Queen's Univeristy.
-- 💞️ I’m looking to collaborate any projects.
+- 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me 18tms9@queensu.ca
 
 <!---
